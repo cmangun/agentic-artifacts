@@ -1,0 +1,1 @@
+{"manifest_id":"m-report-001","bundle_id":"b-report-001","artifacts":[{"artifact_id":"art-report-001","event_id":"evt-001","hash":"sha256:a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2","path":"report.md","artifact_type":"report","content_type":"text/markdown","size_bytes":2048}]}
