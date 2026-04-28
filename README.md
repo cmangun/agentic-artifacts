@@ -19,16 +19,6 @@ Source receipts/trace semantics: [agentic-receipts](https://github.com/cmangun/a
 - `examples/` — Example bundles with report and code patch artifacts
 - `lib/` — Reference implementations (Rust, Python)
 
-## Suite
-
-This repo is part of the **Agentic Evidence Suite**:
-- [agentic-receipts](https://github.com/cmangun/agentic-receipts) (standard)
-- [agentic-trace-cli](https://github.com/cmangun/agentic-trace-cli) (tooling)
-- [agentic-artifacts](https://github.com/cmangun/agentic-artifacts) (outputs)
-- [agentic-policy-engine](https://github.com/cmangun/agentic-policy-engine) (governance)
-- [agentic-eval-harness](https://github.com/cmangun/agentic-eval-harness) (scenarios)
-- [agentic-evidence-viewer](https://github.com/cmangun/agentic-evidence-viewer) (review UI)
-
 ## License
 
 MIT
