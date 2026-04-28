@@ -1,5 +1,7 @@
 # agentic-artifacts
 
+> Part of the [Agentic Evidence Suite](https://github.com/cmangun/agentic-evidence) — six interoperating components for verifiable agentic AI. See [`REFERENCE-ARCHITECTURE.md`](https://github.com/cmangun/agentic-evidence/blob/main/REFERENCE-ARCHITECTURE.md) for the suite-level architecture.
+
 Artifact manifests and provenance rules for **integrity-preserved agent outputs**.
 
 This repo defines how agent outputs (documents, patches, datasets, images) are:
